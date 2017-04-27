@@ -1,0 +1,22 @@
+body {
+	margin: 1px;
+	padding: 30px 0;
+	background: #eef5e6;
+}
+
+p, h1, h2 {	
+	width: 800px;
+	margin: 20px;
+	z-index: 5;
+}
+
+#btn {
+	border-radius:5px;
+	right: 50%;
+	z-index: 10;
+	height: 50px;
+	width: 150px;
+	position: absolute;
+	cursor: pointer;
+	background: #ffda80;
+}
