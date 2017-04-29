@@ -1,5 +1,5 @@
 # Description
-This program was made as a training on JS-Animation.
+This project was made as a training on JS-Animation.
 
 ## Technical task
 Make a button that will run away from the user by a dozen pixels, when you try to point the mouse at it to click. The button should not run away from the screen. When you click on it, it changes the color and the inscription and gets static positioning.
